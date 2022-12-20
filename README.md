@@ -1,4 +1,6 @@
-# Olá, me chamo Lucas Santana Figueiredo, me formei em engenharia mecatrônica pela PUC-MG e atualmente estou estudando Front-end web development.
+## Bem vindo ao meu profile!
+
+# Me chamo Lucas Santana Figueiredo, me formei em engenharia mecatrônica pela PUC-MG e atualmente estou estudando Front-end web development.
 
 <div align="center">
   <a href="https://github.com/santanafx">

@@ -1,6 +1,7 @@
 # Bem vindo ao meu profile!
 
-## Me chamo Lucas Santana Figueiredo, me formei em engenharia mecatrônica pela PUC-MG e atualmente sou Front-end web developer.
+## Olá, me chamo [Lucas Santana Figueiredo](https://www.linkedin.com/in/jeanmeira/](https://www.linkedin.com/in/lucas-santana-figueiredo-907436115/)
+
 
 <div align="center">
   <a href="https://github.com/santanafx">

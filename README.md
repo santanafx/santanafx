@@ -1,7 +1,6 @@
 # Bem vindo ao meu profile!
 
-## Olá, me chamo [Lucas Santana Figueiredo](https://www.linkedin.com/in/jeanmeira/](https://www.linkedin.com/in/lucas-santana-figueiredo-907436115/)
-
+## Olá, me chamo [Lucas Santana Figueiredo](https://www.linkedin.com/in/lucas-santana-figueiredo-907436115/)
 
 <div align="center">
   <a href="https://github.com/santanafx">

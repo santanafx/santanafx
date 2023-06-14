@@ -2,14 +2,13 @@
 
 ## Olá, me chamo [Lucas Santana Figueiredo](https://www.linkedin.com/in/lucas-santana-figueiredo/)
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&layout=compact&theme=vision-friendly-dark)](https://github.com/santanafx/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx)](https://github.com/santanafx/github-readme-stats)
+  </div>
+  <div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&layout=compact&theme=vision-friendly-dark)](https://github.com/santanafx/github-readme-stats)
+</div>
 
-<!-- <div align="center">
-  <a href="https://github.com/santanafx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santanafx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&layout=compact&langs_count=7&theme=dark"/>
-</div> -->
 
 ## Linguagens mais usadas:
 

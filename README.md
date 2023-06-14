@@ -2,13 +2,9 @@
 
 ## Olá, me chamo [Lucas Santana Figueiredo](https://www.linkedin.com/in/lucas-santana-figueiredo/)
 
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&layout=compact&theme=vision-friendly-dark)](https://github.com/santanafx/github-readme-stats)
-  </div>
-  <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&layout=compact&theme=vision-friendly-dark)](https://github.com/santanafx/github-readme-stats)
-</div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&layout=compact&theme=vision-friendly-dark)](https://github.com/santanafx/github-readme-stats)
 
 ## Linguagens mais usadas:
 

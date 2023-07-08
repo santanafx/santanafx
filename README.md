@@ -38,8 +38,8 @@ JavaScript | React | HTML | CSS
 <img src="./images/styled-components.png" width="32" height="32" />
 </a>
 
-<a href="https://www.figma.com" target="_blank" rel="noreferrer">
-<img src="./images/figma.svg" width="32" height="32" />
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+<img src="./images/4375066_logo_sass_icon.svg" width="32" height="32" />
 </a>
 
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">

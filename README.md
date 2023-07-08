@@ -6,9 +6,25 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&layout=compact&theme=vision-friendly-dark)](https://github.com/santanafx/github-readme-stats)
 
-## Linguagens mais usadas:
+## Tecnologias mais usadas:
 
-JavaScript | React | HTML | CSS
+JavaScript | Typescript | React | GitHub | HTML | CSS | SASS | TailwindCSS | Styled-Components | VsCode
+
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+<img src="./images/javascript.svg" width="32" height="32" />
+</a>
+
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+<img src="./images/typescript.svg" width="32" height="32" />
+</a>
+
+<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
+<img src="./images/react.svg" width="32" height="32" />
+</a>
+
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+<img src="./images/git.svg" width="32" height="32" />
+</a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
 <img src="./images/html-5.svg" width="32" height="32" />
@@ -18,34 +34,21 @@ JavaScript | React | HTML | CSS
 <img src="./images/css3.svg" width="32" height="32" />
 </a>
 
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-<img src="./images/javascript.svg" width="32" height="32" />
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+<img src="./images/4375066_logo_sass_icon.svg" width="32" height="32" />
 </a>
 
-<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer">
-<img src="./images/react.svg" width="32" height="32" />
-</a>
-
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-<img src="./images/typescript.svg" width="32" height="32" />
-</a>
-
-<a href="https://git-scm.com" target="_blank" rel="noreferrer">
-<img src="./images/git.svg" width="32" height="32" />
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+<img src="./images/9074204_tailwind_icon.svg" width="32" height="32" />
 </a>
 
 <a href="https://styled-components.com" target="_blank" rel="noreferrer">
 <img src="./images/styled-components (1).png" width="32" height="32" />
 </a>
 
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-<img src="./images/4375066_logo_sass_icon.svg" width="32" height="32" />
-</a>
-
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
 <img src="./images/vs-code.svg" width="32" height="32" />
 </a>
-
 
 ## Contato:
 

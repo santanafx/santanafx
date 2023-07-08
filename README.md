@@ -35,7 +35,7 @@ JavaScript | React | HTML | CSS
 </a>
 
 <a href="https://styled-components.com" target="_blank" rel="noreferrer">
-<img src="./images/styled-components.png" width="32" height="32" />
+<img src="./images/styled-components (1).png" width="32" height="32" />
 </a>
 
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">

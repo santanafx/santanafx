@@ -8,7 +8,7 @@
 
 ## Tecnologias mais usadas:
 
-JavaScript | Typescript | React | GitHub | HTML | CSS | SASS | TailwindCSS | Styled-Components | VsCode
+JavaScript | TypeScript | React | GitHub | HTML | CSS | SASS | TailwindCSS | Styled-Components | VsCode
 
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
 <img src="./images/javascript.svg" width="32" height="32" />

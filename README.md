@@ -1,12 +1,12 @@
-# Bem vindo ao meu profile!
+# Welcome to my profile!
 
-## Olá, me chamo [Lucas Santana Figueiredo](https://www.linkedin.com/in/lucas-santana-figueiredo/)
+## Hi, my name is [Lucas Santana Figueiredo](https://www.linkedin.com/in/lucas-santana-figueiredo/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santanafx&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&layout=compact&theme=vision-friendly-dark)](https://github.com/santanafx/github-readme-stats)
 
-## Tecnologias mais usadas:
+## Most used technologies:
 
 JavaScript | TypeScript | React | GitHub | HTML | CSS | SASS | TailwindCSS | Styled-Components | VsCode
 
@@ -50,7 +50,7 @@ JavaScript | TypeScript | React | GitHub | HTML | CSS | SASS | TailwindCSS | Sty
 <img src="./images/vs-code.svg" width="32" height="32" />
 </a>
 
-## Contato:
+## Contact:
 
 <div> 
  <a href="https://discordapp.com/users/254746660549296128" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

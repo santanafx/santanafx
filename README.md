@@ -2,8 +2,6 @@
 
 ## Hi, my name is [Lucas Santana Figueiredo](https://www.linkedin.com/in/lucas-santana-figueiredo/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=santanafx&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&layout=compact&theme=vision-friendly-dark)](https://github.com/santanafx/github-readme-stats)
 
 ## Most used technologies:

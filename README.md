@@ -6,8 +6,8 @@
 
 ## Most used technologies:
 
-React, JavaScript, TypeScript, Clean Code, Atomic Design, SOLID, GraphQL, API REST, Storybook, Docker, 
-PostgreSQL, Git, GitHub, CSS, Styled-components, Material UI, HTML, Jest, Next e Cypress. 
+React, JavaScript, Next, TypeScript, Clean Code, Atomic Design, SOLID, GraphQL, API REST, Storybook, Docker, 
+PostgreSQL, Git, GitHub, CSS, Styled-components, Material UI, HTML, Jest and Cypress. 
 
 ## Contact:
 

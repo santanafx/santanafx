@@ -2,7 +2,9 @@
 
 ## Hi, my name is [Lucas Santana Figueiredo](https://www.linkedin.com/in/lucas-santana-figueiredo/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santanafx&size_weight=0.5&count_weight=0.5&layout=compact&theme=github_dark&hide_border=true" />
+</div>
 
 ## Most used technologies:
 

@@ -3,7 +3,7 @@
 ## Hi, my name is [Lucas Santana Figueiredo](https://www.linkedin.com/in/lucas-santana-figueiredo/)
 
 <!-- Top Languages (funcionando 100% em 2025) -->
-![Estatísticas do santanafx](https://github-readme-stats.vercel.app/api?username=santanafx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats-5bfefcd85-santanafxs-projects.vercel.app/api/top-langs/?username=santanafx&layout=compact&theme=radical&langs_count=10&hide_border=true&count_private=true)
 <br>
 
 ## Most used technologies

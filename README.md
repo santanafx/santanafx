@@ -4,9 +4,8 @@
 
 <!-- Top Languages (funcionando 100% em 2025) -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-santanafx.vercel.app/api/top-langs/?username=santanafx&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+  <img height="180em" src="https://github-readme-stats-santanafx.vercel.app/api?username=santanafx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
 </div>
-
 <br>
 
 ## Most used technologies
